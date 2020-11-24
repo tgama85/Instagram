@@ -1,6 +1,7 @@
 # Recriando a página inicial do Instagram
 ## Desafio HTML Web Developer da Digital Innovation One
-O projeto tem por objetivo recriar a página de login do Instagram, tópicos abordados:
+O projeto, desenvolvido por Gabriela Pinheiro, tem por objetivo recriar a página de login do Instagram.
+Tópicos abordados:
  - HTML5
  - Conceito sobre CSS Flexbox
  - Responsividade
