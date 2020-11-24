@@ -7,6 +7,8 @@ O projeto tem por objetivo recriar a página de login do Instagram, tópicos abo
 
 Mostra de página
 ![](https://i.imgur.com/nozeYJh.png)
+____
 
 Tela responsiva
+
 ![](https://i.imgur.com/kug8wt4.png)
